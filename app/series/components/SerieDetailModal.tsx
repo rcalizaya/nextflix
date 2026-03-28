@@ -7,6 +7,7 @@ type Serie = {
   urlPortada: string;
   estreno: number;
   calificacion: string;
+  genero: string;
 };
 
 type Props = {
