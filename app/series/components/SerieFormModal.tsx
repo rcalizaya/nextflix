@@ -42,7 +42,7 @@ export default function SerieFormModal({
       estreno: fieldName === "estreno" ? (fieldValue as number) : estreno,
       genero: fieldName === "genero" ? (fieldValue as string) : genero,
       urlPortada: fieldName === "urlPortada" ? (fieldValue as string) : urlPortada,
-      calificacion: fieldName === "calificacion" ? (fieldValue as string) : calificacion,
+      calificacion: fieldName === "calificacion" ? (fieldValue as number) : calificacion,
       plataforma: fieldName === "plataforma" ? (fieldValue as string) : plataforma,
       
     };
