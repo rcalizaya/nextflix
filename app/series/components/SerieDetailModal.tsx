@@ -8,6 +8,7 @@ type Serie = {
   estreno: number;
   calificacion: string;
   genero: string;
+  plataforma: string;
 };
 
 type Props = {
