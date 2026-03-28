@@ -46,9 +46,9 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold text-white mb-4">Contacto</h4>
 
-          <p className="text-sm text-gray-400">soporte@nextshop.com</p>
+          <p className="text-sm text-gray-400">soporte@nextflix.com</p>
 
-          <p className="text-sm text-gray-400">La Paz, Bolivia</p>
+          <p className="text-sm text-gray-400">Bolivia</p>
         </div>
       </div>
 
