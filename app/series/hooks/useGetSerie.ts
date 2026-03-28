@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { GetSerieResponse } from "../interfaces/getproduct.interface";
+import { GetSerieResponse } from "../interfaces/getserie.interface";
 import { getSeries } from "../services/getserie.service";
 
 export function UseGetSerie() {
