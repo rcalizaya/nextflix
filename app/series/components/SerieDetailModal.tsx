@@ -6,7 +6,7 @@ type Serie = {
   sinopsis: string;
   urlPortada: string;
   estreno: number;
-  calificacion: string;
+  calificacion: number;
   genero: string;
   plataforma: string;
 };
